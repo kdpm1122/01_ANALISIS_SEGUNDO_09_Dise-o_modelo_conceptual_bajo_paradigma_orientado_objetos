@@ -1,1 +1,3 @@
 # 01_ANALISIS_SEGUNDO_09_Dise-o_modelo_conceptual_bajo_paradigma_orientado_objetos
+
+https://kdpm1122.github.io/01_ANALISIS_SEGUNDO_09_Dise-o_modelo_conceptual_bajo_paradigma_orientado_objetos/
